@@ -10,6 +10,8 @@ Installing:
 5. Now Copy the .3gx File In 0004000000033500
 6. Eject And Put Back Your SD Card Into Your 3DS And Power It On
 7. Press L+Down+SELECT And Scroll Down And Enable The Plugin Loader Then Close The Menu
+
+
 You Will Need This Luma3DS: https://github.com/Nanquitas/Luma3DS/releases/
 
 WARNING: This Plugin WIll Only Work On The NA Version Of Ocarina Of Time 3D
