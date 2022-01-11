@@ -14,4 +14,4 @@ Installing:
 
 You Will Need This Luma3DS: https://github.com/Nanquitas/Luma3DS/releases/
 
-WARNING: This Plugin WIll Only Work On The NA Version Of Ocarina Of Time 3D
+WARNING: This Plugin Will Only Work On The NA Version Of Ocarina Of Time 3D
