@@ -1,4 +1,4 @@
-# Ocarina Of Time 3D Plugin
+# Ocarina Of Time 3D Gauntlet Deluxe
 
 An Ocarina Of Time 3D Plugin in a .3gx Format To Be Loaded With Luma3DS
 
