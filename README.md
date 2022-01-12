@@ -33,4 +33,9 @@ This Is Not The First Version Of The Plugin But We Do Not Intend To Upload Older
 
 > **Programmed By hackNcode (J.B. 3)**
 
+**CTRPF Blank Template Programmed By PabloMK7: https://github.com/PabloMK7/CTRPluginFramework-BlankTemplate** 
+
+> If Your Looking Forward To Making Your Own Plugin Go To The GitHub Link Above And If You Need Help, Join Nanquitas Discord: https://discord.com/invite/z4ZMh27
+
+> **I Do Not Own Any CTRPF Blank Templates Nor The Discord Server**
 
