@@ -16,8 +16,10 @@ An Ocarina Of Time 3D Plugin in a .3gx Format To Be Loaded With Luma3DS
 ###### Important
 You Will Need This Luma3DS: https://github.com/Nanquitas/Luma3DS/releases/
 
+Also, Keep In Mind That This Plugin Will Only Work On The NA Version Of Ocarina Of Time 3D
+
 ###### Other
 
-This Is Not The First Version Of The Plugin But We Do Not Intend To Upload Older Versions;
+This Is Not The First Version Of The Plugin But We Do Not Intend To Upload Older Versions
 
-This Plugin Will Only Work On The NA Version Of Ocarina Of Time 3D
+
