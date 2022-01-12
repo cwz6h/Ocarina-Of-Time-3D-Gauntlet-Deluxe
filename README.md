@@ -37,5 +37,5 @@ This Is Not The First Version Of The Plugin But We Do Not Intend To Upload Older
 
 > If Your Looking Forward To Making Your Own Plugin Go To The GitHub Link Above And If You Need Help, Join Nanquitas Discord: https://discord.com/invite/z4ZMh27
 
-> **I Do Not Own Any CTRPF Blank Templates Nor The Discord Server**
+> **I Do Not Own PabloMK7's CTRPF Or Nanquitas, I Also Do Not Own Any CTRPF Provided By Other Users, Nor Do I Own The Discord Server**
 
