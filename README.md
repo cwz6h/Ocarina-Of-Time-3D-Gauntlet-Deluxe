@@ -28,4 +28,9 @@ Also, Keep In Mind That This Plugin Will Only Work On The NA Version Of Ocarina 
 
 This Is Not The First Version Of The Plugin But We Do Not Intend To Upload Older Versions
 
+## Programming
+**Programmed Using C++ Programming Language And CTRPF (CTRPluginFramework) As a devkitPro Library, with 3gxtool.exe To Generate The .3gx file After Code Is Checked With No Errors**
+
+> **Programmed By hackNcode (J.B. 3)
+
 
