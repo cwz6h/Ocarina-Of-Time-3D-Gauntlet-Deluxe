@@ -6,7 +6,7 @@ An Ocarina Of Time 3D Plugin in a .3gx Format To Be Loaded With Luma3DS
 
 > **For Those Users Who Are Too Lazy To Download the .3gx file From The Releases, Or Just Want To Have Fun Compiling**
 
-Just Extract The Source Code And Run "build.bat", This Will make the .3gx Plugin. Make Sure To Download All Libraries It Requires. 
+Just Extract The Source Code And Run "build.bat", This Will make the .3gx Plugin. Make Sure To Download All Libraries And Such Files It Requires. 
 
 ## Installing
 1. Download the .3gx File From the Releases (You Do Not Need To Do This If You Already Compiled Your .3gx file)
