@@ -1,6 +1,5 @@
 # Ocarina Of Time 3D Gauntlet Deluxe
 A Ocarina Of Time 3D Plugin In a .3gx Format. (Only Works On NA Version)
-
 This Luma3DS Is Required: https://github.com/Nanquitas/Luma3DS/releases/
 
 ## Git Cloning
