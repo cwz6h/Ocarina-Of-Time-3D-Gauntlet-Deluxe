@@ -8,7 +8,7 @@ Make Sure To Clone It Somewhere Where You Can Find It Later
 
 ## Compiling
 
-Just Extract The Source Code And **Run "build.bat"**, This Will Make the .3gx Plugin. Make Sure To Have CTRPF Installed On Your PC And Also Have 3gxtool.exe 
+Just Extract The Source Code And **Run "build.bat"**, This Will Make the .3gx Plugin. Make Sure To Have CTRPF Installed On Your PC And Also Have The 3gxtool.exe File 
 
 ## Installing
 1. Download the .3gx File From the Releases (You Do Not Need To Do This If You Already Compiled Your .3gx file)
