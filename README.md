@@ -1,12 +1,15 @@
 # Ocarina Of Time 3D Gauntlet Deluxe
+A Ocarina Of Time 3D Plugin In a .3gx Format. (Only Works On NA Version)
 
-An Ocarina Of Time 3D Plugin in a .3gx Format To Be Loaded With Luma3DS
+This Luma3DS Is Required: https://github.com/Nanquitas/Luma3DS/releases/
+
+## Git Cloning
+Make Sure To Clone It Somewhere Where You Can Find It Later
+> **git clone https://github.com/hackNcode/Ocarina-Of-Time-3D-Gauntlet-Deluxe.git**
 
 ## Compiling
 
-> **For Those Users Who Are Too Lazy To Download the .3gx file From The Releases, Or Just Want To Have Fun Compiling**
-
-Just Extract The Source Code And Run "build.bat", This Will make the .3gx Plugin. Make Sure To Download All Libraries And Such Files It Requires. 
+Just Extract The Source Code And **Run "build.bat"**, This Will Make the .3gx Plugin. Make Sure To Have CTRPF Installed On Your PC And Also Have 3gxtool.exe 
 
 ## Installing
 1. Download the .3gx File From the Releases (You Do Not Need To Do This If You Already Compiled Your .3gx file)
@@ -16,27 +19,3 @@ Just Extract The Source Code And Run "build.bat", This Will make the .3gx Plugin
 5. Now Copy the .3gx File In 0004000000033500
 6. Eject And Put Back Your SD Card Into Your 3DS And Power It On
 7. Press L+Down+SELECT And Scroll Down And Enable The Plugin Loader Then Close The Menu
-
-## Notes
-
-###### Important
-You Will Need This Luma3DS: https://github.com/Nanquitas/Luma3DS/releases/
-
-Also, Keep In Mind That This Plugin Will Only Work On The NA Version Of Ocarina Of Time 3D
-
-###### Other
-
-This Is Not The First Version Of The Plugin But We Do Not Intend To Upload Older Versions
-
-## Programming
-**Programmed Using C++ Programming Language And CTRPF (CTRPluginFramework) As a devkitPro Library, with 3gxtool.exe To Generate The .3gx file After Code Is Checked With No Errors**
-
-> **Programmed By hackNcode (J.B. 3)**
-
-**CTRPF Blank Template Programmed By PabloMK7: https://github.com/PabloMK7/CTRPluginFramework-BlankTemplate** 
-
-> **If Your Looking Forward To Making Your Own Plugin Go To The GitHub Link Above And If You Need Help, Join Nanquitas Discord: https://discord.com/invite/z4ZMh27**
-
-> **I Do Not Own PabloMK7's CTRPF Blank Template Or Nanquitas, I Also Do Not Own Any CTRPF Blank Templates Provided By Other Users, Nor Do I Own The Discord Server.**
-
-> **I Do However Own This Plugin As I Downloaded The Blank Template And Programmed All Cheats, As The Blank Template Provided By Nanquitas Or PabloMK7 Is Source Code To Be Modified To Be Someone's Plugin. As My Plugin Is Not A CTRPF Blank Template As It Is No Longer Blank, Meaning That Cheats Were Added. You Can However Download The Source Code Of My Plugin And Add The Source Code That You Would Like To Have In Your Plugin. Or You Can Also Simply Modify It And Publish It As A Fork On Your Github.**
